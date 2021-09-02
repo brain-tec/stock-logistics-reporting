@@ -5,6 +5,12 @@
 
 <!-- /!\ do not modify above this line -->
 
+# BT Customizations
+Open OCA PRs merged
+- (https://github.com/OCA/stock-logistics-reporting/pull/156) stock_quantity_history_location
+- (https://github.com/OCA/stock-logistics-reporting/pull/157) stock_account_quantity_history_location
+
+
 # stock-logistics-reporting
 
 TODO: add repo description.
