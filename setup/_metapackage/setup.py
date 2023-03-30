@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-delivery_line_sale_line_position>=15.0dev,<15.1dev',
+        'odoo-addon-stock_account_quantity_history_location>=15.0dev,<15.1dev',
         'odoo-addon-stock_account_valuation_report>=15.0dev,<15.1dev',
         'odoo-addon-stock_card_report>=15.0dev,<15.1dev',
         'odoo-addon-stock_move_value_report>=15.0dev,<15.1dev',
@@ -18,6 +19,7 @@ setuptools.setup(
         'odoo-addon-stock_picking_report_undelivered_product>=15.0dev,<15.1dev',
         'odoo-addon-stock_picking_report_valued>=15.0dev,<15.1dev',
         'odoo-addon-stock_picking_report_valued_sale_mrp>=15.0dev,<15.1dev',
+        'odoo-addon-stock_quantity_history_location>=15.0dev,<15.1dev',
         'odoo-addon-stock_report_quantity_by_location>=15.0dev,<15.1dev',
     ],
     classifiers=[
