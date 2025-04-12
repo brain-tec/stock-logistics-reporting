@@ -24,6 +24,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [stock_account_valuation_report](stock_account_valuation_report/) | 18.0.1.0.0 |  | Improves logic of the Inventory Valuation Report
+[stock_picking_report_valued](stock_picking_report_valued/) | 18.0.1.0.0 |  | Adding Valued Picking on Delivery Slip report
 
 [//]: # (end addons)
 
