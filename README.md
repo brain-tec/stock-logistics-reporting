@@ -40,6 +40,7 @@ addon | version | maintainers | summary
 [stock_picking_report_salesperson](stock_picking_report_salesperson/) | 16.0.1.1.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Salesperson info in Stock Picking reports
 [stock_picking_report_summary](stock_picking_report_summary/) | 16.0.1.0.0 | [![quentinDupont](https://github.com/quentinDupont.png?size=30px)](https://github.com/quentinDupont) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Stock Picking Report Summary
 [stock_picking_report_valued](stock_picking_report_valued/) | 16.0.1.1.2 |  | Adding Valued Picking on Delivery Slip report
+[stock_picking_report_valued_sale_mrp](stock_picking_report_valued_sale_mrp/) | 16.0.1.0.0 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Allow to summarize the picking related with the selled kits
 [stock_quantity_history_location](stock_quantity_history_location/) | 16.0.1.0.1 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) [![rolandojduartem](https://github.com/rolandojduartem.png?size=30px)](https://github.com/rolandojduartem) | Provides stock quantity by location on past date
 [stock_report_quantity_by_location](stock_report_quantity_by_location/) | 16.0.1.0.0 |  | Stock Report Quantity By Location
 
