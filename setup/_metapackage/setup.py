@@ -17,6 +17,7 @@ setuptools.setup(
         'odoo-addon-stock_picking_batch_report>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_operations_multilang>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_report_custom_description>=16.0dev,<16.1dev',
+        'odoo-addon-stock_picking_report_delivery_custom_name>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_report_delivery_driver>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_report_external_note>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_report_header_repeater>=16.0dev,<16.1dev',
