@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [delivery_line_sale_line_position](delivery_line_sale_line_position/) | 14.0.1.0.0 |  | Adds the sale line position to the delivery report lines
+[printing_auto_stock_picking](printing_auto_stock_picking/) | 14.0.1.1.0 | <a href='https://github.com/jbaudoux'><img src='https://github.com/jbaudoux.png' width='32' height='32' style='border-radius:50%;' alt='jbaudoux'/></a> | Printing Auto Stock Picking
 [stock_account_quantity_history_location](stock_account_quantity_history_location/) | 14.0.1.0.1 |  | Glue module between Stock Account and Stock Quantity History Location modules
 [stock_account_valuation_report](stock_account_valuation_report/) | 14.0.1.0.1 |  | Improves logic of the Inventory Valuation Report
 [stock_average_daily_sale](stock_average_daily_sale/) | 14.0.1.0.2 |  | Allows to gather delivered products average on daily basis

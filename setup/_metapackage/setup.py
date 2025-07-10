@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo14-addon-delivery_line_sale_line_position',
+        'odoo14-addon-printing_auto_stock_picking',
         'odoo14-addon-stock_account_quantity_history_location',
         'odoo14-addon-stock_account_valuation_report',
         'odoo14-addon-stock_average_daily_sale',
