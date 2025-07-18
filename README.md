@@ -9,7 +9,7 @@
 
 # stock-logistics-reporting
 
-TODO: add repo description.
+Reporting modules for stock and logistics in Odoo
 
 <!-- /!\ do not modify below this line -->
 
@@ -22,20 +22,20 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [delivery_line_sale_line_position](delivery_line_sale_line_position/) | 14.0.1.0.0 |  | Adds the sale line position to the delivery report lines
-[printing_auto_stock_picking](printing_auto_stock_picking/) | 14.0.1.1.0 | <a href='https://github.com/jbaudoux'><img src='https://github.com/jbaudoux.png' width='32' height='32' style='border-radius:50%;' alt='jbaudoux'/></a> | Printing Auto Stock Picking
+[printing_auto_stock_picking](printing_auto_stock_picking/) | 14.0.1.1.1 | <a href='https://github.com/jbaudoux'><img src='https://github.com/jbaudoux.png' width='32' height='32' style='border-radius:50%;' alt='jbaudoux'/></a> | Printing Auto Stock Picking
 [stock_account_quantity_history_location](stock_account_quantity_history_location/) | 14.0.1.0.1 |  | Glue module between Stock Account and Stock Quantity History Location modules
 [stock_account_valuation_report](stock_account_valuation_report/) | 14.0.1.0.1 |  | Improves logic of the Inventory Valuation Report
 [stock_average_daily_sale](stock_average_daily_sale/) | 14.0.1.0.2 |  | Allows to gather delivered products average on daily basis
-[stock_card_report](stock_card_report/) | 14.0.1.0.2 |  | Add stock card report on Inventory Reporting.
+[stock_card_report](stock_card_report/) | 14.0.1.0.3 |  | Add stock card report on Inventory Reporting.
 [stock_inventory_valuation_pivot](stock_inventory_valuation_pivot/) | 14.0.1.1.0 |  | Add pivot view to the stock inventory valuation report
-[stock_inventory_valuation_report](stock_inventory_valuation_report/) | 14.0.1.0.0 |  | Add report button on Inventory Valuation.
+[stock_inventory_valuation_report](stock_inventory_valuation_report/) | 14.0.1.0.1 |  | Add report button on Inventory Valuation.
 [stock_picking_comment_template](stock_picking_comment_template/) | 14.0.1.1.0 |  | Comments texts templates on Picking documents
 [stock_picking_group_by_partner_by_carrier_sale_line_position](stock_picking_group_by_partner_by_carrier_sale_line_position/) | 14.0.1.0.2 |  | Glue module for sale position and delivery report grouped
 [stock_picking_report_custom_description](stock_picking_report_custom_description/) | 14.0.2.0.0 | <a href='https://github.com/carlosdauden'><img src='https://github.com/carlosdauden.png' width='32' height='32' style='border-radius:50%;' alt='carlosdauden'/></a> | Show moves description in picking reports
 [stock_picking_report_valued](stock_picking_report_valued/) | 14.0.1.2.3 |  | Adding Valued Picking on Delivery Slip report
-[stock_quant_history](stock_quant_history/) | 14.0.1.2.0 | <a href='https://github.com/petrus-v'><img src='https://github.com/petrus-v.png' width='32' height='32' style='border-radius:50%;' alt='petrus-v'/></a> <a href='https://github.com/StephaneMangin'><img src='https://github.com/StephaneMangin.png' width='32' height='32' style='border-radius:50%;' alt='StephaneMangin'/></a> | Re-generate stock quants for given date
+[stock_quant_history](stock_quant_history/) | 14.0.1.2.1 | <a href='https://github.com/petrus-v'><img src='https://github.com/petrus-v.png' width='32' height='32' style='border-radius:50%;' alt='petrus-v'/></a> <a href='https://github.com/StephaneMangin'><img src='https://github.com/StephaneMangin.png' width='32' height='32' style='border-radius:50%;' alt='StephaneMangin'/></a> | Re-generate stock quants for given date
 [stock_quant_history_queued](stock_quant_history_queued/) | 14.0.1.0.0 | <a href='https://github.com/petrus-v'><img src='https://github.com/petrus-v.png' width='32' height='32' style='border-radius:50%;' alt='petrus-v'/></a> | Use Queue jop to generate stock quants snapshots
-[stock_quantity_history_location](stock_quantity_history_location/) | 14.0.1.0.0 |  | Provides stock quantity by location on past date
+[stock_quantity_history_location](stock_quantity_history_location/) | 14.0.1.0.1 |  | Provides stock quantity by location on past date
 [stock_report_quantity_by_location](stock_report_quantity_by_location/) | 14.0.1.0.0 |  | Stock Report Quantity By Location
 
 [//]: # (end addons)
