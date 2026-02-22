@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-10-21 14:42+0000\n"
+"PO-Revision-Date: 2026-02-21 12:09+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: stock_account_valuation_report
 #: model_terms:ir.ui.view,arch_db:stock_account_valuation_report.view_stock_product_tree2
@@ -176,7 +176,7 @@ msgstr "Differenza valutazione"
 #. module: stock_account_valuation_report
 #: model:ir.model.fields,field_description:stock_account_valuation_report.field_product_product__valuation_layer_ids
 msgid "Valuation Layer"
-msgstr ""
+msgstr "Strato valorizzazione"
 
 #. module: stock_account_valuation_report
 #: model_terms:ir.ui.view,arch_db:stock_account_valuation_report.product_search_form_view
